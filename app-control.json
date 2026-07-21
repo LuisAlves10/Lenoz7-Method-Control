@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "enabled": false,
+  "enabled": true,
   "minimumVersionCode": 10,
   "latestVersionCode": 12,
   "latestVersionName": "0.3.2",
-  "message": "servidor desligado pelo brutal lenoz da picona da senzala la ele",
+  "message": "Lenoz7 Method disponivel.",
   "updateUrl": "https://github.com/LuisAlves10/Lenoz7-Method-Control/releases/latest"
 }
