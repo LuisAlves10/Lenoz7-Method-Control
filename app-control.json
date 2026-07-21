@@ -2,8 +2,8 @@
   "schema": 1,
   "enabled": true,
   "minimumVersionCode": 10,
-  "latestVersionCode": 12,
-  "latestVersionName": "0.3.2",
+  "latestVersionCode": 13,
+  "latestVersionName": "0.3.3",
   "message": "Lenoz7 Method disponivel.",
-  "updateUrl": "https://github.com/LuisAlves10/Lenoz7-Method-Control/releases/latest"
+  "updateUrl": "https://github.com/LuisAlves10/Lenoz7-Method-Control/releases/download/v0.3.3/Lenoz7-Method-0.3.3-arm64-debug.apk"
 }
