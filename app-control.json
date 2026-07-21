@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "enabled": true,
+  "enabled": false,
   "minimumVersionCode": 10,
   "latestVersionCode": 11,
   "latestVersionName": "0.3.1",
-  "message": "Atualizacao 0.3.1: controle remoto com o app aberto.",
+  "message": "Lenoz7 Method temporariamente indisponivel.",
   "updateUrl": "https://github.com/LuisAlves10/Lenoz7-Method-Control/releases/latest"
 }
